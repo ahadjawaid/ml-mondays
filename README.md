@@ -1,5 +1,5 @@
-#Welcome to ML Mondays! Below, you will find all the information & instructions you may need to follow along with our workshops!
 # Machine Learning Mondays Workshop
+Welcome to ML Mondays! Below, you will find all the information & instructions you may need to follow along with our workshops!
 
 ## Prerequisites
 
